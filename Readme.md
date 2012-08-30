@@ -12,7 +12,7 @@ Where numbers increase from left to right and from top to bottom.
 
 The class implements some functions, two of which are puzzleworthy:
 
- * findNumber (num) : finds the [i,j] index of "num" in the square
- * findNthSmallest (n) : finds the nth smallest number in the square
+ * `findNumber (num)` : finds the [i,j] index of "num" in the square
+ * `findNthSmallest (n)` : finds the nth smallest number in the square
 
  Super useful.
